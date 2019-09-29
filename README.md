@@ -1,6 +1,6 @@
 # surveyed_paper
 
-# これまでに読んだ論文の一覧とリンク
+# 一覧とリンク
 
 ## - U-Net: Convolutional Networks for Biomedical Image Segmentation
 論文: https://arxiv.org/pdf/1505.04597.pdf
