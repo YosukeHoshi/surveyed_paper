@@ -15,3 +15,15 @@
 スライド: https://speakerdeck.com/yosukehoshi/gan-lun-wen-sabei
 
 まとめ: https://github.com/YosukeHoshi/surveyed_paper/issues/2
+
+## - WIP/XGBoost: A Scalable Tree Boosting System 
+論文: https://arxiv.org/abs/1603.02754
+まとめ: https://github.com/YosukeHoshi/surveyed_paper/issues/3
+
+## - WIP/Vision-based Real Estate Price Estimation
+論文: https://arxiv.org/abs/1511.06434
+まとめ: https://github.com/YosukeHoshi/surveyed_paper/issues/4
+
+## - WIP/Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+論文: https://arxiv.org/abs/1511.06434
+まとめ: https://github.com/YosukeHoshi/surveyed_paper/issues/5
